@@ -1,6 +1,6 @@
-console.log("abc")
+console.log('abc')
 
-let count: number = 123;
+const count = 123
 console.log(count)
 
 export {}
